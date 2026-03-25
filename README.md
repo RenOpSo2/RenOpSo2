@@ -1,9 +1,6 @@
 
 Hi! I'm RenoDev 👨‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/RenOpSo2/github-readme-stats)
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Python+%7C+C+%7C+Git;Flask+%7C+FastAPI+%7C+libcurl;Neovim+%7C+Vim+%7C+Linux;Clean+Code+%7C+Efficient+APIs" alt="Typing SVG" />
 </p>
