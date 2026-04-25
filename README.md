@@ -27,7 +27,7 @@
 
 ## 🧠 LeetCode Profile
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=renopso2&theme=dark" />
+  <img src="https://leetcode.com/u/renopso2" />
 </p>
 
 ---
