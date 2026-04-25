@@ -25,12 +25,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/renopso2theme=dark&font=Fira%20Code&ext=contest" />
-</p>
-
+## 🧠 LeetCode Profile
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/?username=renopso2&theme=dark" />
 </p>
