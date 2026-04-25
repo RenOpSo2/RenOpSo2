@@ -45,8 +45,7 @@ def current_focus():
         "Data Structures & Algorithms",
         "System Design Basics"
     ]
-
-
+```
 ---
 
 📌 Featured Projects
@@ -75,4 +74,3 @@ low-level system tools in C
 <p align="center">
   <b>Write code. Ship fast. Keep it clean.</b>
 </p>
-```
