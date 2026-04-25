@@ -26,10 +26,16 @@
 ---
 
 ## 🧠 LeetCode Profile
+
 <p align="center">
-  <img src="https://leetcode.com/u/renopso2" />
+  <a href="https://leetcode.com/u/renopso2/">
+    <img src="https://leetcard.jacoblin.cool/renopso2?theme=dark&font=Fira%20Code&ext=contest" />
+  </a>
 </p>
 
+<p align="center">
+  Consistent problem solving • DSA practice • Competitive mindset
+</p>
 ---
 
 ## 🚀 Current Focus
