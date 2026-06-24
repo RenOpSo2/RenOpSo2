@@ -10,7 +10,7 @@
 
 - Love building efficient systems
 - Interested in Compiler Engineering
-- Linux + Neovim + Helix daily driver
+- Linux + Vim + Helix daily driver
 - Solving problems on LeetCode consistently
 
 > clean code > clever code
@@ -52,10 +52,8 @@ def current_focus():
 📌 Featured Projects
 
 mini-compiler-c
-
-fastapi backend services
-
 low-level system tools in C
+low-level type-c language
 
 
 
