@@ -1,7 +1,7 @@
 # Hi, I'm RenoDev 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=Compiler+Design+%7C+C+Developer;Zig+Contributor+%7C+Aegis+Creator;Backend+%7C+Linux;Clean+Code+%7C+LeetCode+Grinder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=Compiler+Design+%7C+C+Developer;Backend+%7C+Linux;Clean+Code+%7C+LeetCode+Grinder" />
 </p>
 
 ---
@@ -25,37 +25,21 @@
 
 ---
 
-## 🧠 LeetCode Profile
-
-<p align="center">
-  <a href="https://leetcode.com/u/renopso2/">
-    <img src="https://leetcard.jacoblin.cool/renopso2?theme=dark&font=Fira%20Code&ext=contest" />
-  </a>
-</p>
-
-<p align="center">
-  Consistent problem solving • DSA practice • Competitive mindset
-</p>
-
----
-
-## 🚀 Current Focus
+## Current Focus
 
 - **Compiler Design** — Multi-pass, AST, codegen, and optimization
 
 ---
 
-## 📌 Featured Projects
-
-### 🛠 mini-compiler-c
+### mini-compiler-c
 > Low-level compiler implementation in C — hands-on experience with lexer, parser, and code generation.
 
-### ⚡ low-level system tools
+### low-level system tools
 > System utilities built in C for performance and control.
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p align="center">
   <a href="mailto:yourmail@gmail.com">
