@@ -1,26 +1,26 @@
 # Hi, I'm RenoDev 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=Python+%7C+C+Developer;Backend+%7C+Compiler+Enthusiast;FastAPI+%7C+Flask+%7C+Linux;Clean+Code+%7C+LeetCode+Grinder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=500&lines=Compiler+Design+%7C+C+Developer;Zig+Contributor+%7C+Aegis+Creator;Backend+%7C+Linux;Clean+Code+%7C+LeetCode+Grinder" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- Love building efficient systems
-- Interested in Compiler Engineering
-- Linux + Vim + Helix daily driver
-- Solving problems on LeetCode consistently
+- 🔥 Compiler Design & Language Development
+- 🐧 Linux + Vim + Helix daily driver
+- 🧠 Solving problems on LeetCode consistently
+- 🏗️ Building systems from the ground up
 
-> clean code > clever code
+> "Good compilers are fast. Great compilers are correct. Elite compilers are both."
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,flask,git,linux,vim,neovim" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,zig,fastapi,flask,git,linux,vim,neovim" />
 </p>
 
 ---
@@ -36,32 +36,38 @@
 <p align="center">
   Consistent problem solving • DSA practice • Competitive mindset
 </p>
+
 ---
 
 ## 🚀 Current Focus
----
 
-📌 Featured Projects
-
-mini-compiler-c
-low-level system tools in C
-low-level type-c language
-
-
+- **Compiler Design** — Multi-pass, AST, codegen, and optimization
 
 ---
 
-📫 Connect
+## 📌 Featured Projects
+
+### 🛠 mini-compiler-c
+> Low-level compiler implementation in C — hands-on experience with lexer, parser, and code generation.
+
+### ⚡ low-level system tools
+> System utilities built in C for performance and control.
+
+---
+
+## 📫 Connect
 
 <p align="center">
   <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  <a href="https://github.com/RenOpSo2">
+  </a>
+  <a href="https://github.com/RenOpSo2">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
-  <b>Write code. Ship fast. Keep it clean.</b>
+  <b>Design compilers. Ship systems. Stay curious.</b>
 </p>
