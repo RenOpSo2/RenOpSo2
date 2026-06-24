@@ -39,14 +39,6 @@
 ---
 
 ## 🚀 Current Focus
-
-```python
-def current_focus():
-    return [
-        "Data Structures & Algorithms",
-        "System Design Basics"
-    ]
-```
 ---
 
 📌 Featured Projects
