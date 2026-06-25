@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <b>Design compilers. Ship systems. Stay curious.</b>
+  <b>Compiler Arcithectur. System programming, Stay curious.</b>
 </p>
